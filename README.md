@@ -41,6 +41,11 @@ or MacPorts:
 3. Open a context menu on a movie file and select MOV2GIF from the
    `Open With` menu.
 
+## To Do
+
+- [ ] Give it a better icon (and probably a better name)
+- [ ] Optimize the options more as necessary
+
 ## Author
 
 Copyright (c) 2019 Akinori MUSHA.
