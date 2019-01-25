@@ -5,7 +5,7 @@ MOV2GIF.app is a tiny application for macOS that converts movies to
 optimized GIFs using the method described in the following article,
 written by Cassidy K:
 
-	https://cassidy.codes/blog/2017/04/25/ffmpeg-frames-to-gif-optimization/
+https://cassidy.codes/blog/2017/04/25/ffmpeg-frames-to-gif-optimization/
 
 The scaling option is hardcoded to fit movies to 1280x720 without
 upscaling.
